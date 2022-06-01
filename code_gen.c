@@ -41,7 +41,7 @@ int main () {
   ImageInfo info;
 
   //#######################
-  const char* str = "password"; // STRING THAT WILL BE CODED
+  const char* str = "paSsword"; // STRING THAT WILL BE CODED
   const int width = 2; // BASE WIDTH OF STRIP IN PIXELS
   int pixel = 60; // QUIET ZONE AT THE START IN PIXELS
   //########################
